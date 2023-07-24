@@ -26,6 +26,8 @@ img{
     border-style: solid;
     border-color: #ccd5ae;
     border-width: 10px;
+    border-radius: 8px;
+    
 }
 
 footer {
@@ -34,16 +36,14 @@ footer {
     background-color: #d4a373;
 }
 
-video {
-    width: 320px;
-    height: 320px;
-}
 
 .container {
     width: 500px;
     height: 281px;
+    
 }
 
 div {
     padding: 50px;
+    
 }
